@@ -1,0 +1,127 @@
+[
+  {
+    "npi": "1811052616",
+    "number": "2017-09-01-123214",
+    "start_date": "2017-09-01",
+    "subscriber": {
+      "ssn": "000-11-7777",
+      "group_number": "US00123"
+    },
+    "patient": {
+      "ssn": "000-12-5555",
+      "relationship": "spouse"
+    },
+    "line_items": [
+      {
+        "procedure_code": "D1110",
+        "tooth_code": null,
+        "charged": 47
+      },
+      {
+        "procedure_code": "D0120",
+        "tooth_code": null,
+        "charged": 25
+      }
+    ]
+  },
+  {
+    "npi": "64698133",
+    "number": "2017-09-12-553454",
+    "start_date": "2017-09-12",
+    "subscriber": {
+      "ssn": "000-55-1234",
+      "group_number": "US00123"
+    },
+    "patient": {
+      "ssn": "000-55-1234",
+      "relationship": "self"
+    },
+    "line_items": [
+      {
+        "procedure_code": "D0274",
+        "tooth_code": null,
+        "charged": 79
+      },
+      {
+        "procedure_code": "D1110",
+        "tooth_code": null,
+        "charged": 111
+      }
+    ]
+  },
+  {
+    "npi": "1770797672",
+    "number": "2017-09-06-983745",
+    "start_date": "2017-09-06",
+    "subscriber": {
+      "ssn": "000-99-9876",
+      "group_number": "US00123"
+    },
+    "patient": {
+      "ssn": "000-99-9876",
+      "relationship": "self"
+    },
+    "line_items": [
+      {
+        "procedure_code": "D8090",
+        "tooth_code": null,
+        "charged": 5100
+      }
+    ]
+  },
+  {
+    "npi": "1073702056",
+    "number": "2017-09-10-112494",
+    "start_date": "2017-09-10",
+    "subscriber": {
+      "ssn": "000-99-9876",
+      "group_number": "US00123"
+    },
+    "patient": {
+      "ssn": "000-99-9876",
+      "relationship": "self"
+    },
+    "line_items": [
+      {
+        "procedure_code": "D2140",
+        "tooth_code": 6,
+        "charged": 169
+      },
+      {
+        "procedure_code": "D0270",
+        "tooth_code": 6,
+        "charged": 28
+      },
+      {
+        "procedure_code": "D1110",
+        "tooth_code": null,
+        "charged": 78
+      }
+    ]
+  },
+  {
+    "npi": "1811052616",
+    "number": "2017-09-01-666999",
+    "start_date": "2017-09-01",
+    "subscriber": {
+      "ssn": "000-11-7777",
+      "group_number": "US00123"
+    },
+    "patient": {
+      "ssn": "000-12-5555",
+      "relationship": "spouse"
+    },
+    "line_items": [
+      {
+        "procedure_code": "D1110",
+        "tooth_code": null,
+        "charged": 47
+      },
+      {
+        "procedure_code": "D0120",
+        "tooth_code": null,
+        "charged": 25
+      }
+    ]
+  }
+]

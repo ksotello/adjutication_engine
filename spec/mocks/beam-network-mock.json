@@ -1,0 +1,98 @@
+[
+  {
+    "Last Name": "Goodman",
+    "First Name": "Pierce",
+    "NPI": 1073702056,
+    "Practice Name": "Goodman Dental Care",
+    "Address Line 1": "521 W WETMORE RD",
+    "Address Line 2": "",
+    "City": "TUCSON",
+    "State": "AZ",
+    "Zip": 857051521,
+    "Speciality": "General Practitioner"
+  },
+  {
+    "Last Name": "Johnson",
+    "First Name": "Henry",
+    "NPI": "",
+    "Practice Name": "Johnson's Dental Care LLC",
+    "Address Line 1": "629 N High St",
+    "Address Line 2": "Floor 6",
+    "City": "Columbus",
+    "State": "OH",
+    "Zip": 432151111,
+    "Speciality": "Endodontic"
+  },
+  {
+    "Last Name": "Naoko",
+    "First Name": "Kimura",
+    "NPI": 1811052616,
+    "Practice Name": "Naoko Kimura DDS",
+    "Address Line 1": "1300 ALAMEDA AVE",
+    "Address Line 2": "",
+    "City": "FIRCREST",
+    "State": "WA",
+    "Zip": 984666511,
+    "Speciality": "General Practitioner"
+  },
+  {
+    "Last Name": "Webster",
+    "First Name": "Richard",
+    "NPI": 1770797672,
+    "Practice Name": "Richard Webster, DDS",
+    "Address Line 1": "640 E DEER SPRINGS WAY",
+    "Address Line 2": "STE 180",
+    "City": "NORTH LAS VEGAS",
+    "State": "NV",
+    "Zip": 890861514,
+    "Speciality": "Orthodontist"
+  },
+  {
+    "Last Name": "Clemons",
+    "First Name": "Rebecca",
+    "NPI": 566,
+    "Practice Name": "Goss Dental Services",
+    "Address Line 1": "1302 Texas Ave",
+    "Address Line 2": "",
+    "City": "Louisville",
+    "State": "KY",
+    "Zip": 40217,
+    "Speciality": "General Practitioner"
+  },
+  {
+    "Last Name": "Chan",
+    "First Name": "Sharon",
+    "NPI": 1750500997,
+    "Practice Name": "Sharon Chan, DDS",
+    "Address Line 1": "2516 W ILLINOIS AVE",
+    "Address Line 2": "",
+    "City": "DALLAS",
+    "State": "TX",
+    "Zip": 752331108,
+    "Speciality": "General Practitioner"
+  },
+  {
+    "Last Name": "Rutledge",
+    "First Name": "Jennifer",
+    "NPI": 1275690893,
+    "Practice Name": "MP Dentistry Dallas PLLC",
+    "Address Line 1": "1026 E WHEATLAND RD",
+    "Address Line 2": "",
+    "City": "DUNCANVILLE",
+    "State": "TX",
+    "Zip": 751164914,
+    "Speciality": "Pediatric"
+  },
+  {
+    "Last Name": "Jobs",
+    "First Name": "Steve",
+    "NPI": 64698133,
+    "Practice Name": "Good Apple Dentistry",
+    "Address Line 1": "1 Infinite Loop",
+    "Address Line 2": "",
+    "City": "Cupertino",
+    "State": "CA",
+    "Zip": 95014,
+    "Speciality": "Oral Surgeon"
+  }
+]
